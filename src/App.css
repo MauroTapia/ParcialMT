@@ -1,0 +1,9 @@
+body{
+background-color: gray;  
+}
+
+#root{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
