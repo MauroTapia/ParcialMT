@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 
-function App() {
+function Formulario() {
   const [nombre, setNombre] = useState('');
   const [auto, setAuto] = useState('');
   const [errorNombre, setErrorNombre] = useState('');
@@ -50,4 +50,4 @@ function App() {
   );
 }
 
-export default App;
+export default Formulario; 
